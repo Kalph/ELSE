@@ -14,3 +14,6 @@ ELSE
 1 - [무료 그리드](https://blog.naver.com/kjskhj04366/221960096853) <br>
 
 <br>
+
+> ## 기타 사이트<br>
+1 - [특수문자들의 UNICODE, HEX CODE, HTML CODE, HTML ENTITY 가 모여진 사이트](https://www.toptal.com/designers/htmlarrows/)<br>
