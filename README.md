@@ -15,6 +15,11 @@ ELSE
 
 <br>
 
+> ## 기타 문제 <br>
+1 - [The terminal process terminated with exit code: 1(vscode localhost 실행 오류)](https://blog.naver.com/kjskhj04366/222004914966)<br>
+
+<br>
+
 > ## 기타 사이트<br>
 1 - [특수문자들의 UNICODE, HEX CODE, HTML CODE, HTML ENTITY 가 모여진 사이트](https://www.toptal.com/designers/htmlarrows/)<br>
 2 - [CORS는 왜 이렇게 우리를 힘들게 하는걸까?](https://evan-moon.github.io/2020/05/21/about-cors/)<br>
